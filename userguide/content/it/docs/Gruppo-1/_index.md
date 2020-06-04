@@ -14,9 +14,10 @@ Dati obbligatori
 
 Il gruppo 1 é composto da:
 
-* nome 1  
-* nome 2  
-* nome x  
+* Monssef Fidah  
+* Davide Fusco
+* Pietro Garbolino
+* Mattia Morritti
 
 La prima parte di ricerca ed analisi la stiamo portando avanti in questo google doc [nome link](url)
 
