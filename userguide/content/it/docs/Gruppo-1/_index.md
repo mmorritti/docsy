@@ -2,23 +2,18 @@
 title: "Gruppo 1"
 weight: 1
 description: >
-   Il gruppo # lavorerà sul incremento di natalità e divorzi durante il lockdown
+   Il gruppo 1 conduce uno studio sui Dispositivi di Protezione Individuale(DPI)
 ---
+   Attraverso ricerche e interviste il gruppo si occupera di trovare, analizzare e risolvere problematiche riguardanti i DPI.
+   
+## DPI TEAM:
 
-Questo é un gruppo di esempio, ogni gruppo é tenuto a duplicare questa cartella e rinominare title e description.
-IL weight é l'ordine con cui apparirà sulla colonna di sinistra.
+* Monsseff Fidah  
+* Davide Fusco  
+* Pietro Garbolino
+* Mattia Morritti
 
-Dati obbligatori
+Clicca sul link per visualizzare la prima parte del nostro progetto [DPI](https://docs.google.com/presentation/d/18RxxflILKe6Hd1KKLPOOjiQAYauPZnTPTjp2voCpWwk/edit?usp=sharing)
 
-## Il Team
-
-Il gruppo 1 é composto da:
-
-* nome 1  
-* nome 2  
-* nome x  
-
-La prima parte di ricerca ed analisi la stiamo portando avanti in questo google doc [nome link](url)
-
-ultimo aggiornamento in data
-tradotto in inglese?
+04/06/2020
+IT
