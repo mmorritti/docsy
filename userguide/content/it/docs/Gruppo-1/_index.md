@@ -1,8 +1,8 @@
 ---
-title: "Gruppo 1"
+title: "DPI"
 weight: 1
 description: >
-   Il gruppo # lavorerà sul incremento di natalità e divorzi durante il lockdown
+   Il gruppo 1 lavorerà sui Dispositivi di Protezione Individuale detti DPI
 ---
 
 Questo é un gruppo di esempio, ogni gruppo é tenuto a duplicare questa cartella e rinominare title e description.
